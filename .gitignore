@@ -1,0 +1,15 @@
+__pycache__
+.env
+./competitor/log/*
+./competitor/test/*
+
+.DS_Store
+*/.DS_Store
+
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+./competitor/test/*
+./benchmarking/log/*
+
+output/
